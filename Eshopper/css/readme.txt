@@ -1,1 +1,1 @@
-Esta carpeta contiene los archivos de imagenes
+Esta carpeta contiene los archivos de diseño
