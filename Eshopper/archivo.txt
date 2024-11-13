@@ -1,0 +1,9 @@
+1,Blusa,100,Dama
+2,Lentes,380,Caballeros
+3,Camisa Azul,150,Caballeros
+4,Falda Azul,99,Damas
+5,Vestido Negro ,60,Damas
+9,Calzoncitos,100,Caballeros
+10,Juguetes,504,Niños
+12,Laptop Gamer,15000,Electronicos
+13,Casa Infonavit,Gratis,Casas
